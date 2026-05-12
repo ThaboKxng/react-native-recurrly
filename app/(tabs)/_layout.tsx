@@ -26,7 +26,7 @@ const TabLayout = () => {
         tabBarShowLabel: false,
         tabBarStyle: {
           position: "absolute",
-          backgroundColor: colors.glass,
+          backgroundColor: colors.primary,
           borderTopWidth: 0,
           elevation: 0,
           bottom: Math.max(insets.bottom, tabBar.horizontalInset),
